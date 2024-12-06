@@ -22,4 +22,3 @@ Pre-trained Haar cascade classifier for face detection in images or video stream
 
 --- 
 
-Feel free to tweak these descriptions based on your preferences or the specific context of your project!
